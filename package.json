@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "ejs": "^2.5.8",
+    "ffmpeg": "github:damianociarla/node-ffmpeg",
+    "koa": "^2.5.0",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2"
+  }
+}
